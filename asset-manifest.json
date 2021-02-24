@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b692632f.chunk.css",
+    "main.js": "./static/js/main.7a914610.chunk.js",
+    "main.js.map": "./static/js/main.7a914610.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.391f07a6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.391f07a6.js.map",
+    "static/js/2.c16ea43f.chunk.js": "./static/js/2.c16ea43f.chunk.js",
+    "static/js/2.c16ea43f.chunk.js.map": "./static/js/2.c16ea43f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.b692632f.chunk.css.map": "./static/css/main.b692632f.chunk.css.map",
+    "static/js/2.c16ea43f.chunk.js.LICENSE.txt": "./static/js/2.c16ea43f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/amcat.27a68c9c.png": "./static/media/amcat.27a68c9c.png",
+    "static/media/biet.d76e73dc.png": "./static/media/biet.d76e73dc.png",
+    "static/media/dei.aa764611.png": "./static/media/dei.aa764611.png",
+    "static/media/all.css": "./static/media/fa-solid-900.d93bcbbb.eot",
+    "static/media/francis.cfb899a1.png": "./static/media/francis.cfb899a1.png",
+    "static/media/indutech.daf3b6ea.png": "./static/media/indutech.daf3b6ea.png",
+    "static/media/lpu.68c93ed4.png": "./static/media/lpu.68c93ed4.png",
+    "static/media/maruti.e2256335.png": "./static/media/maruti.e2256335.png",
+    "static/media/pic.1fadb190.jpeg": "./static/media/pic.1fadb190.jpeg",
+    "static/media/tcs.99462c48.png": "./static/media/tcs.99462c48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.391f07a6.js",
+    "static/js/2.c16ea43f.chunk.js",
+    "static/css/main.b692632f.chunk.css",
+    "static/js/main.7a914610.chunk.js"
+  ]
+}
